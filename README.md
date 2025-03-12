@@ -1,2 +1,3 @@
 ให้นักศึกษานำ โค๊ดงานล่าสุด จาก Assgin #4 มาแตกเป็น ไฟล์  html, css และ js อย่างน้อย 3 ไฟล์  เพื่อนำขึ้นเป็น Repository บน GitHub โดยให้ Commit ด้วย V1.0 และ push  แล้วให้ทำการแก้ไขข้อมูลผ่าน VS Code ในส่วนของ ReadMe เพื่ออธิบายงานที่ทำ แล้วให้ Commit ด้วย V1.1 และ push 
 การส่งงาน ให้นักศึกษาส่ง url ของ GitHub ที่เก็บ Repository ของงานที่ส่งขึ้น GitHub  และ Capture หน้าจอของ VS Code ที่เชื่อมโยงกับ Repository บน GitHub
+//add V1.1
